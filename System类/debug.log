@@ -1,0 +1,9 @@
+[0709/185507:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0709/185509:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0709/185543:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0709/185543:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0709/185551:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://v.qq.com/x/cover/brls59nho5p5eyw/y00246v5pwl.html?pgv_ref=aio2015&ptlang=2052' was loaded over HTTPS, but requested an insecure image 'http://127.0.0.1:11066/getversionjpg?hash=273205'. This content should also be served over HTTPS.", source: https://v.qq.com/x/cover/brls59nho5p5eyw/y00246v5pwl.html?pgv_ref=aio2015&ptlang=2052 (0)
+[0709/185551:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://v.qq.com/x/cover/brls59nho5p5eyw/y00246v5pwl.html?pgv_ref=aio2015&ptlang=2052' was loaded over HTTPS, but requested an insecure image 'http://127.0.0.1:11066/getversionjpg?hash=172241'. This content should also be served over HTTPS.", source: https://v.qq.com/x/cover/brls59nho5p5eyw/y00246v5pwl.html?pgv_ref=aio2015&ptlang=2052 (0)
+[0709/185627:WARNING:raw_channel_win.cc(473)] WriteFile: 管道正在被关闭。 (0xE8)
+[0709/185627:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 1, remote ID 1)
+[0709/185627:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 2, remote ID 2147483648)
